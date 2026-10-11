@@ -1,0 +1,23 @@
+target/
+**/target/
+.m2-local/
+data/
+logs/
+downloads/
+release/
+.tmp/
+config/tls/
+*.local
+*.p12
+*.jks
+*.db
+*.db-wal
+*.db-shm
+.env
+
+# Local/runtime artifacts
+.idea/
+output/
+qa/
+*.class
+*.lock
